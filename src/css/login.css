@@ -1,0 +1,51 @@
+/* style login */
+.background-dack {
+    background-color: #dcd6d6;
+}
+
+.text-golden {
+    color: #9d5c0d;
+}
+
+.text-golden-ligt {
+    color: #F7D08A;
+}
+
+.card-login {
+    backdrop-filter: blur(10px);
+    border-radius: 0px;
+}
+
+.input-login {
+    background: #754c1a30;
+    color: #F7D08A;
+    border: none;
+    border-radius: 0px;
+}
+
+.input-login:focus {
+    background: #754c1a30;
+    color: #F7D08A;
+    border: 1px solid #f9f9f9;
+    box-shadow: none;
+    border-radius: 0px;
+}
+
+.border-radios {
+    border-radius: 0px !important;
+}
+.account{
+    font-size: 12px;
+    color: gray;
+    text-decoration: underline;
+    margin: 5px 0px;
+}
+
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    color: #ffffff;
+}
+.nav-link:focus, .nav-link:hover {
+    color: #ffffff;
+}
